@@ -73,6 +73,7 @@ Til denne øvelse skal du selv lave det script der skal køres.
 1.	I SSMS skal du klikke på New Query, hvorefter en tom editor åbnes.
 1.	Skriv en UPDATE forespørgsel, der opdaterer feltet super_ssn til ’666884444’ for Employee med ssn = ’666884444’
 1.	Kør scriptet.
+
 I praksis så opdateres medarbejderen til at være sin egen leder, hvilket ikke er logisk rent forretningsmæssigt.
 Kan der gøres noget for at forhindre at det sker?
 I så fald hvad?
