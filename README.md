@@ -59,14 +59,18 @@ Find alle afdelinger der har mere end en medarbejder, samt antallet af medarbejd
 
 ## Øvelse 13
 Eksekver følgende forespørgsel:  
+´--
 insert into employee(fname, lname, ssn, dno)
 values ('Torben', 'Larsen', '98706040',2)
+--´
 Hvad er resultatet?  
 
 ## Øvelse 14
 Eksekver følgende forespørgsel:  
+
 delete from employee
 where ssn = '987654321'
+
 Hvad er resultatet?  
 
 ## Øvelse X1 
