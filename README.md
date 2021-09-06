@@ -30,8 +30,8 @@ Hvad betydning kan det have, når der eksekveres flere statements i samme script
 Denne, og de efterfølgende øvelser, handler om at hente og manipulere data fra databasen, og for at undgå misforståelser kan du køre scriptet CompanySQLScripts.sql inden du starter, således du har det korrekte udgangspunkt.
 Til denne øvelse skal du selv lave det script der skal køres.
 1.	I SSMS skal du klikke på New Query, hvorefter en tom editor åbnes.
-2.	Skriv en UPDATE forespørgsel, der opdaterer feltet dno til NULL for Employee med ssn = ’666884444’
-3.	Kør scriptet.
+1.	Skriv en UPDATE forespørgsel, der opdaterer feltet dno til NULL for Employee med ssn = ’666884444’
+1.	Kør scriptet.
 Hvad gik galt?
 Hvilke ændringer i scriptet skal der til, for at fejlen rettes og kan den overhovedet rettes?
 
@@ -68,3 +68,11 @@ delete from employee
 where ssn = '987654321'
 Hvad er resultatet?
 
+## Øvelse X1 
+Til denne øvelse skal du selv lave det script der skal køres.
+1.	I SSMS skal du klikke på New Query, hvorefter en tom editor åbnes.
+1.	Skriv en UPDATE forespørgsel, der opdaterer feltet super_ssn til ’666884444’ for Employee med ssn = ’666884444’
+1.	Kør scriptet.
+I praksis så opdateres medarbejderen til at være sin egen leder, hvilket ikke er logisk rent forretningsmæssigt.
+Kan der gøres noget for at forhindre at det sker?
+I så fald hvad?
