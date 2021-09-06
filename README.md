@@ -67,10 +67,10 @@ Hvad er resultatet?
 
 ## Øvelse 14
 Eksekver følgende forespørgsel:  
-
+```sql
 delete from employee
 where ssn = '987654321'
-
+```
 Hvad er resultatet?  
 
 ## Øvelse X1 
