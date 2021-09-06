@@ -5,7 +5,7 @@ Alle scripts der skal benyttes til nedenstående øvelser, findes i dette github
 Når du har løst en øvelse, danner løsningen udgangspunkt for den næste øvelse. Det er altså vigtigt at du gør en øvelse færdig, inden du starter på den næste. 
 
 ## Øvelse 1
-Start med at køre scriptet Ex1_DDLErrors.sql
+Start med at køre scriptet Ex1_DDLErrors.sql 
 Hvad gik galt?
 Hvilke ændringer i scriptet skal der til, for at fejlen rettes?
 
