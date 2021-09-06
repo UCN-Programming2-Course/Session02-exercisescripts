@@ -32,6 +32,7 @@ Til denne øvelse skal du selv lave det script der skal køres.
 1.	I SSMS skal du klikke på New Query, hvorefter en tom editor åbnes.
 1.	Skriv en UPDATE forespørgsel, der opdaterer feltet dno til NULL for Employee med ssn = ’666884444’
 1.	Kør scriptet.
+
 Hvad gik galt?
 Hvilke ændringer i scriptet skal der til, for at fejlen rettes og kan den overhovedet rettes?
 
