@@ -82,3 +82,6 @@ Til denne øvelse skal du selv lave det script der skal køres.
 I praksis så opdateres medarbejderen til at være sin egen leder, hvilket ikke er logisk rent forretningsmæssigt.  
 Kan der gøres noget for at forhindre at det sker?  
 I så fald hvad?  
+
+# Løsninger 
+Skoleløsninger kan findes i solution branch
